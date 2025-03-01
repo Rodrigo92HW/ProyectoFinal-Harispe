@@ -12,7 +12,7 @@ export default function Cart() {
         <Container className="mt-5">
             <Row>
             <Col xs={8}>
-                {cartAmount == 0 ?
+                {cartAmount === 0 ?
                     <CartItemPlaceHolder />
                     :
                     <>

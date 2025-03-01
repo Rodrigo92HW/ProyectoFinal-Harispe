@@ -47,10 +47,10 @@ export function CartProvider({ children }) {
                     text: "El carro fue limpiado con exito.",
                     icon: "success"
                 });
-            }
 
-            setCart([]);
-            setCartAmount(0);
+                setCart([]);
+                setCartAmount(0);
+            }
         });
     }
 
