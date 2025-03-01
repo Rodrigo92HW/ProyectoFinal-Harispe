@@ -18,15 +18,15 @@ El proyecto consta de un ecommerce desarrollado con ReactJS, que permite a los u
 
 ### Proyecto en produccion
 
-[Cuisine Bazar](https://cuisinebazar.netlify.app/)
+[Digi-Store](https://digi-store-fofqixesl-rodrigo92hws-projects.vercel.app/)
 
 ## Vistas
 
 ### Categorias
+![Botones de Navegacion](https://i.imgur.com/QXIkqQp.png)
+![Vista de Categorias](https://i.imgur.com/rmi5D1Q.png)
+![Carro de Compras](https://i.imgur.com/MdpvZGF.png)
 
-![Vista de Categorias](https://user-images.githubusercontent.com/109805535/240902594-67fb723d-020e-4650-90eb-cfe4c4146275.png)
-
-**Texto en negrita**
 
 ## Instala el proyecto:
 
