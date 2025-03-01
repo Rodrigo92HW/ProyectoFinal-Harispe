@@ -21,10 +21,13 @@ El proyecto consta de un ecommerce desarrollado con ReactJS, que permite a los u
 [Digi-Store](https://digi-store-fofqixesl-rodrigo92hws-projects.vercel.app/)
 
 ## Vistas
+### Navegacion
+![Botones de Navegacion](https://i.imgur.com/QXIkqQp.png)
 
 ### Categorias
-![Botones de Navegacion](https://i.imgur.com/QXIkqQp.png)
 ![Vista de Categorias](https://i.imgur.com/rmi5D1Q.png)
+
+### Carro de Compras
 ![Carro de Compras](https://i.imgur.com/MdpvZGF.png)
 
 
